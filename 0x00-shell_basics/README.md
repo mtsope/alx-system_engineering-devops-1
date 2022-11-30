@@ -24,4 +24,6 @@ Script that Move the file betty from /tmp/ to /tmp/my_first_directory
 ---
 8. **8-firstdelete**
 Script that delete The file betty in /tmp/my_first_directory
-
+---
+9. **9-firstdirdeletion**
+Script that Delete the directory my_first_directory that is in the /tmp directory.
