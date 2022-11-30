@@ -19,5 +19,9 @@ Script that Display current directory contents and hidden files in long format a
 6. **6-firstdirectory**
 Script that creates a directory named my_first_directory in the /tmp/ directory.
 ---
-**7-movethatfile**
+7. **7-movethatfile**
 Script that Move the file betty from /tmp/ to /tmp/my_first_directory
+---
+8. **8-firstdelete**
+Script that delete The file betty in /tmp/my_first_directory
+
