@@ -13,4 +13,7 @@ Script that changes the owner of the file hello to the user betty.
 4. **4-empty**
 Script that creates an empty file called hello
 ---
-5. **
+5. **5-execute**
+Script that adds execute permission to the owner of the file hello.
+---
+6. **
